@@ -1,0 +1,36 @@
+#slider{
+    position: relative;
+}
+#header{
+    position: absolute;
+    top: 40%;
+    color: blueviolet;
+    line-height: 4em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    right: 20%;
+    padding: 30px;
+    background-color: rgba(217, 182, 250, 0.233);
+    border-radius: 5px;
+}
+#cols_item{
+    background-color: burlywood;
+    margin: 20px;
+    padding: 20px;
+    height: 500PX;
+}
+
+#cols_item:hover{
+    display: show;
+    cursor: pointer;
+    background-color: chartreuse;
+}
+#form{
+    padding: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(220, 210, 230);
+    /* background-image: url('https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'); */
+    background-color: brown;
+    
+}
